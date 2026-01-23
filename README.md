@@ -13,4 +13,3 @@ It demonstrates basic Python functionality.
 2. Open the project folder
 3. Run the script:
    python main.py
-
